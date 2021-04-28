@@ -6,7 +6,7 @@ description: Jekyll Theme Minimal Resume # http://willianjusten.com.br
 
 # User settings
 username: Praveen Kumar
-user_description: I'm a Java developer who has worked primarily with Java on Spring ,SpringBoot, Hiberbates and Webservices(SOAP and REST). Having around 2+ years of experience in the tech industry, currenttly I am working with Capgemini technology Services India Ltd. Previously worked for Huawei Technologies India Pvt.Ltd. 
+user_description: I'm a Java developer who has worked primarily with Java on Spring ,SpringBoot, Hiberbates and Webservices(SOAP and REST). Having around 2+ years of experience in the tech industry, currenttly I am working with <a href="https://www.capgemini.com/in-en/?georedirect_none=true">Capgemini technology Services India Ltd</a>. Previously worked for Huawei Technologies India Pvt.Ltd. 
 user_title: Software Engineer
 email: praveenkumar.saggam@gmail.com
 twitter_username: praveensaggam
