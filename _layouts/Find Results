@@ -2,20 +2,20 @@ Searching 51 files for "Melissa Auclaire"
 
 /Users/kiyomizumia/Downloads/practice_webpages/jekyll-theme-minimal-resume/_config.yml:
     1  # Site settings
-    2: title: Melissa Auclaire
-    3  description: Jekyll Theme Minimal Resume
+    2: title: Praveen Kumar
+    3  description: Praveen Kumar Resume
     4  # baseurl: "" # the subpath of your site, e.g. /blog
     .
     6  
     7  # User settings
-    8: username: Melissa Auclaire
-    9  user_description: I\'m a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff. Visit my blog here <a href="https://mauriciourraco.com" target="_blank">https://mauriciourraco.com</a>
+    8: username: Praveen Kumar
+    9  user_description: I\'m a Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff. Visit my blog here <a href="https://mauriciourraco.com" target="_blank">https://mauriciourraco.com</a>
    10  user_title: Software Engineer
 
 /Users/kiyomizumia/Downloads/practice_webpages/jekyll-theme-minimal-resume/_includes/footer.html:
     1  <footer class="footer">
     2      <!-- <p>&copy; {{ site.username }}</p> -->
-    3:     <p>Build with Jekyll and <span class="love">❤</span> by <a href="https://github.com/murraco">Melissa Auclaire</a></p>
+    3:     <p>Build with Jekyll and <span class="love">❤</span> by <a href="https://github.com/murraco">Praveen Kumar</a></p>
     4  </footer>
     5  <script src="//cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 
@@ -23,12 +23,12 @@ Searching 51 files for "Melissa Auclaire"
     7    <meta name="viewport" content="width=device-width, initial-scale=1">
     8  
     9:   <title>Melissa Auclaire</title>
-   10    <meta name="description" content="Jekyll Theme Minimal Resume">
+   10    <meta name="description" content="Praveen Kumar Resume">
    11  
    ..
    89        <footer class="footer">
    90      <!-- <p>&copy; Mauricio Urraco</p> -->
-   91:     <p>Build with Jekyll and <span class="love">❤</span> by <a href="https://github.com/murraco">Melissa Auclaire</a></p>
+   91:     <p>Build with Jekyll and <span class="love">❤</span> by <a href="https://github.com/murraco">Praveen Kumar</a></p>
    92  </footer>
    93  <script src="//cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 
@@ -39,10 +39,10 @@ Searching 51 files for "Mauricio"
 
 /Users/kiyomizumia/Downloads/practice_webpages/jekyll-theme-minimal-resume/_config.yml:
     7  # User settings
-    8  username: Melissa Auclaire
-    9: user_description: I\'m a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff. Visit my blog here <a href="https://melissaauclaire.com.com" target="_blank">https://melissaauclaire.com</a>
+    8  username: Praveen Kumar
+    9: user_description: I\'m a Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff. Visit my blog here <a href="https://melissaauclaire.com.com" target="_blank">https://melissaauclaire.com</a>
    10  user_title: Software Engineer
-   11  email: rhapsody.ai@gmail.com
+   11  email: praveenkumar.saggam@gmail.com
 
 /Users/kiyomizumia/Downloads/practice_webpages/jekyll-theme-minimal-resume/_config.yml.save:
     1  # Site settings
@@ -52,9 +52,9 @@ Searching 51 files for "Mauricio"
     .
     8  username: Lorem Ipsum
     9  user_description: Software Engineer at Lorem Ipsum Dolor
-   10: user_title: Melissa Auclaire
-   11  email: rhapsody.ai@gmail.com
-   12  # twitter_username: kiyomizumia
+   10: user_title: Praveen Kumar
+   11  email: praveenkumar.saggam@gmail.com
+   12  # twitter_username: praveensaggam
 
 /Users/kiyomizumia/Downloads/practice_webpages/jekyll-theme-minimal-resume/LICENSE:
     1  MIT License
